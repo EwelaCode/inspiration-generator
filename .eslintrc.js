@@ -32,7 +32,8 @@ module.exports = {
       {
         components: ['Link'],
         specialLink: ['hrefLeft', 'hrefRight'],
-        aspects: ['invalidHref', 'preferButton']
+        aspects: ['invalidHref', 'preferButton'],
+        endOfLine: 'auto'
       }
     ]
   }
